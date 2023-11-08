@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [LCM Calculator](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_lcm_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the LCM Calculator to the sidebar through the `Appearance -> Widgets -> LCM Calculator` menu in WordPress.
+* Add the shortcode `[ci_lcm_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_lcm_calculator(); ?>` to your template where you would like the LCM Calculator to appear.
 
 == Screenshots ==
