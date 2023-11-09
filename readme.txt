@@ -13,6 +13,8 @@ LCM calculator to find the LCM of two or more numbers. Shows solutions by prime 
 
 LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
 
+[LCM Calculator Homepage](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage")
+
 __Shortcode__
 
 Use the LCM Calculator shortcode:
