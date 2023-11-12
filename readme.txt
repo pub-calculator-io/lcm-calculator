@@ -13,34 +13,35 @@ LCM calculator to find the LCM of two or more numbers. Shows solutions by prime 
 
 LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
 
-[LCM Calculator Homepage](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage")
+[https://www.calculator.io/lcm-calculator/](https://www.calculator.io/lcm-calculator/)
 
-__Shortcode__
-
-Use the LCM Calculator shortcode:
+__LCM Calculator Shortcode__
 
 `[ci_lcm_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_lcm_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [LCM Calculator](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== LCM Calculator Usage ==
+
 * Add the shortcode `[ci_lcm_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_lcm_calculator(); ?>` to your template where you would like the LCM Calculator to appear.
 
 == Screenshots ==
+
 1. The LCM Calculator Input Form.
 2. The LCM Calculator Calculation Results.
+
+== Libraries used in LCM Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
