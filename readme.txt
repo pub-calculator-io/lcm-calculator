@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
 
-== Description ==
-
-LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
-
 [https://www.calculator.io/lcm-calculator/](https://www.calculator.io/lcm-calculator/)
 
-__LCM Calculator Shortcode__
+== Usage ==
+
+Add the LCM Calculator shortcode to your page, post or sidebar:
 
 `[ci_lcm_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the LCM Calculator to appear:
 
-1. Upload the /ci_lcm_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [LCM Calculator](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== LCM Calculator Usage ==
-
-* Add the shortcode `[ci_lcm_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_lcm_calculator(); ?>` to your template where you would like the LCM Calculator to appear.
+`<?php display_ci_lcm_calculator(); ?>`
 
 == Screenshots ==
 
 1. The LCM Calculator Input Form.
 2. The LCM Calculator Calculation Results.
 
-== Libraries used in LCM Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the LCM Calculator /ci_lcm_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the LCM Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of LCM Calculator
