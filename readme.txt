@@ -1,6 +1,6 @@
 === LCM Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: lcm calculator, least common multiple calculator, find lcm, lcm of numbers, lcm math, calculate least common multiple, lcm calculation, lcm of two numbers, lcm and gcd, lcm finder
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
