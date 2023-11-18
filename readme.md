@@ -1,4 +1,4 @@
-# LCM Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# LCM Calculator Widget for WordPress
 
 LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
 
