@@ -7,7 +7,7 @@ LCM calculator to find the LCM of two or more numbers. Shows solutions by prime 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/lcm-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /lcm-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [LCM Calculator](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 

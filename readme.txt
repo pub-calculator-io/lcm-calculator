@@ -1,4 +1,4 @@
-=== LCM Calculator ===
+=== LCM Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: lcm calculator, least common multiple calculator, find lcm, lcm of numbers, lcm math, calculate least common multiple, lcm calculation, lcm of two numbers, lcm and gcd, lcm finder
 Requires at least: 5.0
