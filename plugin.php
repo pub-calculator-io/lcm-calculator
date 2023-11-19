@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: LCM Calculator by www.calculator.io
+Plugin Name: CI Lcm calculator
 Plugin URI: https://www.calculator.io/lcm-calculator/
 Description: LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
 Version: 1.0.0
