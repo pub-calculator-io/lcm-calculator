@@ -24,7 +24,6 @@ Add the following code to your template where you would like the LCM Calculator 
 == Screenshots ==
 
 1. The LCM Calculator Input Form.
-2. The LCM Calculator Calculation Results.
 
 == Installation ==
 
