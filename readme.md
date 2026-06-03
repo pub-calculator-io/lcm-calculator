@@ -1,6 +1,6 @@
 # LCM Calculator Widget for WordPress
 
-LCM calculator to find the LCM of two or more numbers. Shows solutions by prime factorization, common multiples, cake/ladder, GCF, division, and Venn diagram.
+Easily find the Least Common Multiple (LCM) of two or more numbers. Get step-by-step solutions using prime factorization, division, GCF, and Venn diagrams.
 
 ![LCM Calculator Input Form](/assets/images/screenshot-1.png "LCM Calculator Input Form")
 
@@ -11,8 +11,8 @@ LCM calculator to find the LCM of two or more numbers. Shows solutions by prime 
 3. Activate the [LCM Calculator](https://www.calculator.io/lcm-calculator/ "LCM Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_lcm_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_lcm_calculator(); ?>` to your template where you would like the LCM Calculator to appear.
+* Add the shortcode `[calcio_lcm_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_lcm_calculator(); ?>` to your template where you would like the LCM Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
